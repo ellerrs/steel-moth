@@ -1,0 +1,9 @@
+{
+	"bootstrap": {
+		"healthCheckTimeout": 60000,
+		"healthCheckInterval": 60000,
+		"bounceInterval": 6000, 
+		"bounceWait": 6030,
+		"childProcess": "./lib/app"
+	}
+}
